@@ -17,7 +17,7 @@
   Run node index.js in the terminal.
   # License
   This project is not licensed.
-  # Contributor: 
+  # Contributor
   N/A
   # Tests
   The following is needed to test this app: 
